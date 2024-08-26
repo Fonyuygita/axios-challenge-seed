@@ -5,3 +5,6 @@ Welcome to the **Understanding Axios by Making API Calls** exercise! In this pro
 ## Getting Started
 
 ### Prerequisites
+- Node.js
+- npm
+- ejs
