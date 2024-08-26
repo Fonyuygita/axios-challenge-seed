@@ -25,3 +25,8 @@ Welcome to the **Understanding Axios by Making API Calls** exercise! In this pro
     npm install
     ```
 
+## Exercise Instructions
+
+### Objective
+
+Your task is to write code to fetch data from the Bored API using Axios. The application should allow users to search for activities based on the type of activity and the number of participants. By default, when the user has not searched for anything, the application should display a random activity with a random number of participants.
