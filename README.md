@@ -49,3 +49,8 @@ Your task is to write code to fetch data from the Bored API using Axios. The app
 - **Search Activity**: `https://www.boredapi.com/api/activity?type={type}&participants={participants}`
 
 ### VIDEO DEMO
+
+
+https://github.com/user-attachments/assets/5b14e0de-be5d-4db4-b8fe-dadc319b53ca
+
+
