@@ -8,3 +8,20 @@ Welcome to the **Understanding Axios by Making API Calls** exercise! In this pro
 - Node.js
 - npm
 - ejs
+
+### Setup
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this repository to create your own copy.
+2. **Clone the Repository**: Clone your forked repository to your local machine using the following command:
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+3. **Navigate to the Project Directory**: 
+    ```bash
+    cd your-repo-name
+    ```
+4. **Install Dependencies**: Run the following command to install all necessary packages:
+    ```bash
+    npm install
+    ```
+
