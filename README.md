@@ -29,4 +29,20 @@ Welcome to the **Understanding Axios by Making API Calls** exercise! In this pro
 
 ### Objective
 
-Your task is to write code to fetch data from the Bored API using Axios. The application should allow users to search for activities based on the type of activity and the number of participants. By default, when the user has not searched for anything, the application should display a random activity with a random number of participants.
+Your task is to write code to fetch data from the Bored API using Axios. The application should allow users to click the go (submit button) and display  activities based on the type of activity and the number of participants. By default, when the user has not searched for anything, the application should display a random activity with a random number of participants.
+
+
+### Steps
+
+1. **Fetch Random Activity**: When the application loads, fetch a random activity and display it.
+2. **Search Functionality**: Implement a search feature that allows users to search for activities based on the type and number of participants.
+3. **Handle No Results**: If no activity matches the user's criteria, display the message "No activity that matches your criteria" on the UI.
+4. **Update UI**: Update the UI to display the fetched activity details.
+
+
+### API Endpoints
+
+- **Random Activity**: `https://www.boredapi.com/api/activity/`
+- **Search Activity**: `https://www.boredapi.com/api/activity?type={type}&participants={participants}`
+
+### VIDEO DEMO
