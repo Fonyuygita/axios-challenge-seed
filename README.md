@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/701c4486-38f1-47b6-86f7-2c7c44da30a8)
+
+
 # Understanding Axios by Making API Calls
 
 Welcome to the **Understanding Axios by Making API Calls** exercise! In this project, you'll learn how to use Axios to fetch data from an API and display it in a user-friendly interface. This exercise will help you understand how to make HTTP requests, handle responses, and update the UI based on user interactions.
